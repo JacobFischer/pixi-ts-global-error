@@ -4,7 +4,7 @@ To demo the bug in https://github.com/pixijs/pixi.js/issues/6445
 
 ## How to
 
-1. clone this gist `git clone git@github.com:ed8dd2dd2139cc830efd0ebcb4ac145a.git`
+1. clone this gist `git clone git@github.com:JacobFischer/pixi-ts-global-error.git`
 2. `npm install`
 3. `npm run build`
 4. This should create a `dist/` directory, load up `dist/index.html` in a browser

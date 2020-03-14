@@ -21,7 +21,7 @@
     "webpack-cli": "3.3.11"
   },
   "scripts": {
-    "build": "webpack --mode development",
+    "build": "webpack",
     "clean": "rm -rf dist"
   }
 }

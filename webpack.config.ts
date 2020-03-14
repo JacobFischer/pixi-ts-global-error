@@ -4,9 +4,9 @@ import { Configuration } from "webpack";
 
 module.exports = {
     entry: resolve(__dirname, 'index.ts'),
+    mode: "development",
     output: {
         path: resolve(__dirname, './dist'),
-        filename: 'index_bundle.js'
     },
     plugins: [
         new HtmlWebpackPlugin() ,
