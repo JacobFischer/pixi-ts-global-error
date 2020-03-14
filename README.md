@@ -18,3 +18,7 @@ Uncaught ReferenceError: PIXI is not defined
     at index_bundle.js:84
     at index_bundle.js:87
 ```
+
+## Live Demo
+
+https://jacobfischer.github.io/pixi-ts-global-error/
